@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Overlapping 2D Discrete Cosine Transform matrix (image) filter based on non-linear thresholding, written in C. The original source of 2D-DCT transform functions (dct.c/h) lost in translation (from SGN-3057 course, TUT).
+Overlapping 2D Discrete Cosine Transform matrix (image) filter based on non-linear thresholding, written in C. The original reference of 2D-DCT transform functions (dct.c/h) unknown (from SGN-3057 course, TUT).
 
 </br>
 <img width="800px" src="img/compare_sigma_25.png">
